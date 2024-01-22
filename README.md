@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front and Backend development
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me @locktonfarrowb@Gmail.co,
+- 📫 How to reach me email me @ locktonfarrowb@Gmail.co,
 - 😄 Pronouns: he/him
 
 <!---
