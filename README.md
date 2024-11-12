@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Ben
-- 👀 I’m interested in Front and Backend development
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me @ locktonfarrowb@Gmail.co,
+- 👋 Hi, I’m Ben, I’m interested in Backend Development and Game Development, I’m currently learning c++ however i have some expereince in HTML,CSS and JavaScript.
+- 📫 How to reach me email me @ locktonfarrowb@Gmail.com
 - 😄 Pronouns: he/him
 
 <!---
